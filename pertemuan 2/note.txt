@@ -1,0 +1,6 @@
+- membuat objek 
+// 1. objek literal
+    tidak effektif untuk objek yang banyak
+// 2. function declaration
+// 3. konstaction Declaration
+// 4. object.create()
