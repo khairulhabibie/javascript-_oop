@@ -1,6 +1,7 @@
 ## 🔥 Javascript _OOP
 
 ---
+
 pertemuan 1 : membuat objek
   - 1. objek literal
   - 2. function declaration
