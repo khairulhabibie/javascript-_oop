@@ -1,0 +1,11 @@
+video 4:
+2.1 Excetion Contect, hoisting, Scope
+    - 2 fase pada Excetion Contect: 1. creation, 2 Excetion
+    add source : pythontutor.com/javascript.html
+
+    // creation phase pada Global Context
+        //   nama variabel = undefined
+        //   nama function = fn()
+        //   hoisting
+        //   window = global object
+        //   this = window
