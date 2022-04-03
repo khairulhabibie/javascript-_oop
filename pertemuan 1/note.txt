@@ -1,4 +1,0 @@
-- membuat objek
-// 1. objek literal
-// 2. function declaration
-// 3. konstaction Declaration

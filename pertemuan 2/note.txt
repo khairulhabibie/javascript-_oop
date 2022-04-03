@@ -1,2 +1,0 @@
-- membuat objek 
-// 4. object.create()
