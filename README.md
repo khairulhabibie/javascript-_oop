@@ -1,2 +1,1 @@
-## 🔥 Javascript _OOP
-  rewrite after watching video in channel youtube web programming unpas
+# 🔥 Javascript - Object-oriented programming (OOP)
